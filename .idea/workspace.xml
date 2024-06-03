@@ -4,14 +4,154 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64b296f1-d8b8-4659-b0e0-23c2898eab35" name="Changes" comment="初始化" />
+    <list default="true" id="64b296f1-d8b8-4659-b0e0-23c2898eab35" name="Changes" comment="初始化">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/cf/CompletableFutureAPIDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/JucBilibiliApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/JucApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/LockSupport/LockSupportDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/LockSupport/LockSupportDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/aqs/AQSDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/aqs/AQSDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/atomics/AccumulatorCompareDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/atomics/AccumulatorCompareDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/atomics/AtomicIntegerArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/atomics/AtomicIntegerArrayDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/atomics/AtomicIntegerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/atomics/AtomicIntegerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/atomics/AtomicIntegerFieldUpdaterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/atomics/AtomicIntegerFieldUpdaterDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/atomics/AtomicMarkableReferenceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/atomics/AtomicMarkableReferenceDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/atomics/AtomicReferenceFieldUpdaterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/atomics/AtomicReferenceFieldUpdaterDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/atomics/LongAdderAPIDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/atomics/LongAdderAPIDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/base/DaemonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/base/DaemonDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/base/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/base/TestDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/base/ThreadBaseDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/base/ThreadBaseDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/cas/ABADemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/cas/ABADemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/cas/AtomicReferenceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/cas/AtomicReferenceDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/cas/AtomicStampedDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/cas/AtomicStampedDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/cas/CASDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/cas/CASDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/cas/SpinLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/cas/SpinLockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/cf/CompletableFutureAPI2Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/cf/CompletableFutureAPI2Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/cf/CompletableFutureAPI3Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/cf/CompletableFutureAPI3Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/cf/CompletableFutureAPIDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/cf/CompletableFutureBuildDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/cf/CompletableFutureBuildDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/cf/CompletableFutureCombineDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/cf/CompletableFutureCombineDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/cf/CompletableFutureDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/cf/CompletableFutureDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/cf/CompletableFutureFastDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/cf/CompletableFutureFastDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/cf/CompletableFutureMallDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/cf/CompletableFutureMallDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/cf/CompletableFutureUseDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/cf/CompletableFutureUseDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/cf/CompletableFutureWithThreadPoolDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/cf/CompletableFutureWithThreadPoolDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/cf/FutureAPIDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/cf/FutureAPIDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/cf/FutureThreadPoolDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/cf/FutureThreadPoolDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/interrupt/InterruptDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/interrupt/InterruptDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/interrupt/InterruptDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/interrupt/InterruptDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/interrupt/InterruptDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/interrupt/InterruptDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/interrupt/InterruptDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/interrupt/InterruptDemo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/locks/DeadLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/locks/DeadLockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/locks/Lock8Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/locks/Lock8Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/locks/LockSyncDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/locks/LockSyncDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/locks/ReEntryLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/locks/ReEntryLockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/locks/SaleTicketDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/locks/SaleTicketDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/objecthead/JOLDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/objecthead/JOLDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/objecthead/ObjectHeadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/objecthead/ObjectHeadDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/rwlock/LockDownGradingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/rwlock/LockDownGradingDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/rwlock/ReentrantReadWriteLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/rwlock/ReentrantReadWriteLockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/rwlock/StampedLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/rwlock/StampedLockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/syncup/LockBigDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/syncup/LockBigDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/syncup/LockClearUPDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/syncup/LockClearUPDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/syncup/SynchronizedUpDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/syncup/SynchronizedUpDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/tl/ReferenceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/tl/ReferenceDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/tl/ThreadLocalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/tl/ThreadLocalDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/tl/ThreadLocalDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/tl/ThreadLocalDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/volatiles/T1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/volatiles/T1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/volatiles/VolatileNoAtomicDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/volatiles/VolatileNoAtomicDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilibili/juc/volatiles/VolatileSeeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liyiru/juc/volatiles/VolatileSeeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bilibili/juc/JucBilibiliApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/liyiru/juc/JucBilibiliApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/JucBilibiliApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/LockSupport/LockSupportDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/aqs/AQSDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/atomics/AccumulatorCompareDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/atomics/AtomicIntegerArrayDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/atomics/AtomicIntegerDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/atomics/AtomicIntegerFieldUpdaterDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/atomics/AtomicMarkableReferenceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/atomics/AtomicReferenceFieldUpdaterDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/atomics/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/atomics/ClickNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/atomics/LongAdderAPIDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/atomics/LongAdderAPIDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/atomics/MyNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/atomics/MyVar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/base/DaemonDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/base/TestDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/base/ThreadBaseDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/cas/ABADemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/cas/AtomicReferenceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/cas/AtomicStampedDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/cas/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/cas/CASDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/cas/SpinLockDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/cas/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/cf/CompletableFutureAPI2Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/cf/CompletableFutureAPI3Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/cf/CompletableFutureAPIDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/cf/CompletableFutureBuildDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/cf/CompletableFutureCombineDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/cf/CompletableFutureDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/cf/CompletableFutureFastDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/cf/CompletableFutureMallDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/cf/CompletableFutureUseDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/cf/CompletableFutureWithThreadPoolDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/cf/FutureAPIDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/cf/FutureThreadPoolDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/cf/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/cf/NetMall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/interrupt/InterruptDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/interrupt/InterruptDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/interrupt/InterruptDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/interrupt/InterruptDemo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/locks/DeadLockDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/locks/Lock8Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/locks/LockSyncDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/locks/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/locks/ReEntryLockDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/locks/SaleTicketDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/locks/Ticket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/objecthead/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/objecthead/JOLDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/objecthead/ObjectHeadDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/rwlock/LockDownGradingDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/rwlock/MyResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/rwlock/ReentrantReadWriteLockDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/rwlock/StampedLockDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/syncup/LockBigDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/syncup/LockClearUPDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/syncup/SynchronizedUpDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/tl/House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/tl/MyData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/tl/MyObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/tl/ReferenceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/tl/ThreadLocalDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/tl/ThreadLocalDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/volatiles/MyNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/volatiles/T1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/volatiles/VolatileNoAtomicDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bilibili/juc/volatiles/VolatileSeeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/bilibili/juc/JucBilibiliApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/bilibili/juc/JucBilibiliApplicationTests.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -35,12 +175,14 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;JUnit.JucBilibiliApplicationTests.contextLoads.executor&quot;: &quot;Run&quot;,
     &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
     &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
     &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
     &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;Spring Boot.JucBilibiliApplication.executor&quot;: &quot;Run&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
@@ -53,11 +195,88 @@
     &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.applicationServers&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.runner&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.CASDemo.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.CompletableFutureBuildDemo.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.CompletableFutureDemo.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.CompletableFutureMallDemo.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.DeadLockDemo.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.InterruptDemo.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Lock8Demo.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ReferenceDemo.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.VolatileSeeDemo.executor&quot;: &quot;Run&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="应用程序.ReferenceDemo">
+    <configuration name="CASDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bilibili.juc.cas.CASDemo" />
+      <module name="juc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bilibili.juc.cas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterruptDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bilibili.juc.interrupt.InterruptDemo" />
+      <module name="juc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bilibili.juc.interrupt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReferenceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liyiru.juc.tl.ReferenceDemo" />
+      <module name="juc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liyiru.juc.tl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VolatileSeeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bilibili.juc.volatiles.VolatileSeeDemo" />
+      <module name="juc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bilibili.juc.volatiles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JucBilibiliApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="juc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bilibili.juc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bilibili.juc" />
+      <option name="MAIN_CLASS_NAME" value="com.bilibili.juc.JucBilibiliApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JucBilibiliApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="juc_bilibili" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.bilibili.juc.JucBilibiliApplication" />
@@ -65,6 +284,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.ReferenceDemo" />
+        <item itemvalue="JUnit.JucBilibiliApplicationTests.contextLoads" />
+        <item itemvalue="应用程序.InterruptDemo" />
+        <item itemvalue="应用程序.CASDemo" />
+        <item itemvalue="应用程序.VolatileSeeDemo" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -87,6 +315,16 @@
       <workItem from="1709206557266" duration="813000" />
       <workItem from="1715274519122" duration="318000" />
       <workItem from="1715274849451" duration="76000" />
+      <workItem from="1715274937935" duration="903000" />
+      <workItem from="1715517641146" duration="634000" />
+      <workItem from="1715519446385" duration="94000" />
+      <workItem from="1716879690688" duration="12545000" />
+      <workItem from="1716905744044" duration="17000" />
+      <workItem from="1716971781185" duration="3959000" />
+      <workItem from="1717047477370" duration="2479000" />
+      <workItem from="1717068922955" duration="4035000" />
+      <workItem from="1717074362785" duration="1067000" />
+      <workItem from="1717249038403" duration="56000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <option name="closed" value="true" />
@@ -96,11 +334,30 @@
       <option name="project" value="LOCAL" />
       <updated>1715274699877</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="初始化">
+      <option name="closed" value="true" />
+      <created>1715275124993</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715275124994</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始化" />
